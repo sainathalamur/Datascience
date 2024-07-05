@@ -26,6 +26,31 @@ In python we use mainly 3 DATATYPES:
 * python variables are completly case sensitive.
 * dont use the below punctuations as a variable like !,@,#,$,%,<,>,&,*,(,),-. 
 
+# print statements in python
+
+* we have 4 types for print in a python.
+* TYPE 1:  
+    * Using comma( , ) we can add one datatype inside the print with another datatype and the comma ( , ) will provide the one tab space.
+*  TYPE 2:
+    
+    * using + operator 
+    * In this type it adds only two string variables and doesnot add anything like string to int.
+    * In this method + operator wont give a one tab space.
+    * In case of any variable in int or float datatype the we have to convert it into string datatype to add with another variable.
+    * It is most leastly used in the realtime.
+* TYPE 3:
+
+    * In this type we use the  identifiers to print the variable.
+    * for int datatype we use %d.
+    * for float datatype we use %f.
+    * for string datatype we use the %s.
+*  TYPE 4:
+    * Using f function and { }
+    * It is mostly used in the realtime.
+    * example: print(f'my name is {variable}')
+    
+
+
 
 
 
