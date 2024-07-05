@@ -50,6 +50,63 @@ In python we use mainly 3 DATATYPES:
     * example: print(f'my name is {variable}')
     
 
+# OPERATORS
+
+* Addition -> +
+    
+    * This operator used for adding the two variables.
+    * we cannot add any datatype with the string until it converted into the string.
+* Subtraction or difference ->  -
+
+    * This operator is used to find the differnce between the 2 variables
+* multlipication -> *
+
+    * This operator gives the product as a output for a given inputs.
+* Division -> /
+
+    * Division operator make operation until we get the remainder as 0 and give quotient as a output.
+* Floor Division -> //
+    
+    * Floor divison make operation and gives the int value only that mean eliminate the float values from the quotient.
+* Modulo operator -> %
+    
+    * Modulo function gives the final remainder as a input.
+* Square 
+
+    * Finds the square value of a given number and the number should be in a int or float datatype.
+* Cube 
+
+     * finds the cube value of a given number and the number should be in a int or float datatype.
+* power -> pow
+
+    * finds the power value of a given number and the number should be in a int or float datatype.
+    * syntax : pow(a,b) here a is the base value and b is the power value.
+    * syntax: pow(a,b,c)  here a is the base value and b is the power value and the result is divided by c and gives the remainder as a output. 
+* = equal operator
+
+    * assain left side variable of = to the right side variable
+* is equal to -> ==
+    
+    * checks the LHS and RHS equal or not and give the boolean as a output.
+* greaterthan ->  >
+
+    * checks the LHS is greaterthan RHS or not.
+* greaterthan or euqal to ->  >=
+
+    * checks the LHS is greaterthan or equal to RHS or not.
+* lessthan ->  <
+
+    * checks the LHS is lessthan  RHS or not.
+* lessthan or equal to ->  <=
+
+    * checks the LHS is lessthan or equal to RHS or not
+* and operator
+
+    * if both the conditions are then it will give true as a output
+* or operator
+
+    * if any one of the condition is true then it will print the true as a output
+
 
 
 
